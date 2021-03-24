@@ -19,6 +19,6 @@
     "ytdl-core": "^4.5.0"
   },
   "bin": {
-    "ub": "./index.js"
+    "startbot": "./index.js"
   }
 }

@@ -45,4 +45,4 @@ A basic framework for building a DiscordJS bot.
 
 The app will now be running!
 
-**Please note:** Once you close the command line window, the bot will be stopped. If you want it hosted 24/7, consider using a hosting company like Heroku. Google this for more. Alternatively, you can run Discord bots on a Raspberry Pi using an SSH server and the NodeJS environment - you can Google this too.
+**Please note:** Once you close the command line window, the bot will be stopped. If you want it hosted 24/7, consider using a hosting company like Heroku. Google this for more. Alternatively, you can run Discord bots on a Raspberry Pi using an SSH server and the NodeJS environment (I do this) - you can Google this too \[although it can be a bit hard to fathom, so you can DM me on Discord (hannah le crumb#0811) or Twitter (@hanatic_)].
